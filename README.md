@@ -70,7 +70,7 @@ pip install -r requirements.txt
 欢迎贡献代码！请通过提交 PR 或创建 issue 的方式参与项目。
 
 # 许可证
-
+![License](https://img.shields.io/badge/license-MIT-green)
 本项目基于 MIT 许可证进行发布，详情请参阅 LICENSE 文件。
 
 # 致谢
